@@ -1,0 +1,12 @@
+/*!****************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss ***!
+  \****************************************************************************************************************/
+body {
+  background: black;
+  color: white;
+}
+body h1 {
+  font-size: 35px;
+  font-family: sans-serif;
+  text-align: center;
+}
